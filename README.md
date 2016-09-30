@@ -1,0 +1,1 @@
+# contractstandards.github.io
